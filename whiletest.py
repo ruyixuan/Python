@@ -7,7 +7,7 @@ while var < 10:
 	num = input(str(var)+"Enter a number:")
 	var += 1
 	if num == "fuck":
-		print ("不许耍流氓")
+		print ("请注意语言文明")
 		break
 else:
 	print ("超过限制！")
